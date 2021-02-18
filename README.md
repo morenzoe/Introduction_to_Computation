@@ -1,9 +1,9 @@
 Disclaimers:
 
-1. This repository is only for my own personal use.
+1. This repository is only for my personal use.
 2. I do not support nor encourage plagiarism in any form.
 3. I do not give any permission for plagiarizing any part of this repository in any form.
-4. I will not be liable or responsible for any plagiarism done by anyone on this repository without my consent.
+4. I will not be liable for any plagiarism done by anyone on this repository without my consent.
 
 
 Penafian:
